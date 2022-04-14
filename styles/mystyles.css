@@ -1,0 +1,26 @@
+.aboutme {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 300;
+    color:darkcyan;
+    text-align:center}
+
+.contactme{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(13, 98, 196);
+    text-align:center;}
+
+body{
+    background-color:lightyellow;
+}
+
+.bold{
+    font-weight: bold;
+}
+.italicize{
+    font-style:italic
+}
+.link{
+    text-decoration: underline;
+    color: blue;
+}
